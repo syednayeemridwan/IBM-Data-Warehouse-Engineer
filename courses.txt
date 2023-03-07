@@ -1,1 +1,8 @@
-Includes 7 courses.
+Includes 7 courses:
+01-Introduction-to-Data-Engineering
+02-Introduction-to-Relational-Databases
+03-Databases-and-SQL-for-Data-Science-with-Python
+04-Hands-on-Introduction-to-Linux-Commands-and-Shell-Scripting
+05-Relational-Database-Administration
+06-ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka
+07-Getting-Started-with-Data-Warehousing-and-BI-Analytics
